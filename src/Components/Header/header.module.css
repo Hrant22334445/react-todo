@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+a {
+    color: blue;
+}
+
+.checkbox {
+    width: 30px;
+    height: 20px;
+}

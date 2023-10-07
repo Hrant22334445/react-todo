@@ -1,0 +1,9 @@
+.dropDown {
+    display: flex;
+    justify-content: right;
+    margin: 90px 5px;
+}
+
+.margins {
+    margin: 0 5px;
+}
